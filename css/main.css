@@ -1,0 +1,35 @@
+.container
+    {
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 960px;
+    }
+
+    header{
+        background-color: black;
+        height: 100px;
+    }
+
+    header h1{
+    border-bottom: 1px solid white;
+    margin:0 0 0 100px; 
+    color: white;
+    line-height: 1;
+    font-size: 1em;
+    padding-top: 50px;
+    text-align: right;
+    text-transform: uppercase;
+    width: 400px;
+    padding-bottom: 5px;
+    }
+
+
+/*=========================================================================
+resets
+============================================================================
+*/
+    h1, h2, h3, h4, h5, h6 {
+        margin: 0;
+    }
